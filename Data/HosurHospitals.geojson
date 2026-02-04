@@ -1,0 +1,527 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-26T22:32:12Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/225571357",
+        "addr:district": "Krishnagiri",
+        "addr:full": "80Feet, Vaishnavi Nagar,Commercial Street, near Dharga Lake, Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vasan Eye Care Hospital-Hosur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8187654,
+              12.7416835
+            ],
+            [
+              77.8186313,
+              12.7413813
+            ],
+            [
+              77.8187842,
+              12.7413159
+            ],
+            [
+              77.8189145,
+              12.7415995
+            ],
+            [
+              77.8187654,
+              12.7416835
+            ]
+          ]
+        ]
+      },
+      "id": "way/225571357"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/389493285",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Government Hospital",
+        "name:kn": "ಸರ್ಕಾರಿ ಆಸ್ಪತ್ರೆ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8253132,
+          12.7289287
+        ]
+      },
+      "id": "node/389493285"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2696699678",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No.120/2-B2, Opp.To Gh.Hosur, Urban, Denkanikotta,Road,Opp.To Gh.Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Gunam Super Speciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8246469,
+          12.7295695
+        ]
+      },
+      "id": "node/2696699678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6892888126",
+        "amenity": "hospital",
+        "name": "A A Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8108331,
+          12.6988491
+        ]
+      },
+      "id": "node/6892888126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926159614",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Opp. Lal-Sipcot.Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Santhi Hospital & Santhi Jananam Fertility Centre Hosur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8058879,
+          12.7488623
+        ]
+      },
+      "id": "node/6926159614"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6928806172",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No.12/1, Tank Street, Hosur. 635109., Urban",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Surya Multispeciality Hospitals Ind Pvt Ltd",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8259093,
+          12.7329337
+        ]
+      },
+      "id": "node/6928806172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932152153",
+        "addr:district": "Krishnagiri",
+        "addr:full": "#76-S, Old Bangalore Road",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Velnath Maternity Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8261929,
+          12.7353452
+        ]
+      },
+      "id": "node/6932152153"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6932414107",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No 72/3, Rs Towers Bangalore Main Road Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Dr Agarwals Eye Hospital Ltd, Hosur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8205797,
+          12.7405888
+        ]
+      },
+      "id": "node/6932414107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934271010",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Near Anantha Asharam Sda Church, Mathigiri Road, Mathigir",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "name": "Ananda Ashramam Private Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8118142,
+          12.698758
+        ]
+      },
+      "id": "node/6934271010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936359951",
+        "addr:district": "Krishnagiri",
+        "addr:full": "27, Tank Street Hosur Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lakshmi Hospital, Krishnagiri",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8254358,
+          12.7328212
+        ]
+      },
+      "id": "node/6936359951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936492063",
+        "addr:district": "Krishnagiri",
+        "addr:full": "76 R Old Bangalore Road Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Vijay Hospital, Krishnagiri",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.825517,
+          12.7350679
+        ]
+      },
+      "id": "node/6936492063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6936696212",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Towards Durga ,Bangalore Road, Hosur.Near Bus Stand, Near Bus Stand, Urban",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Uma Kumar Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8243053,
+          12.7362537
+        ]
+      },
+      "id": "node/6936696212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7184228803",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Bagalur Road,Opposite Maharishi Bala Vidya Mandir",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "healthcare:speciality": "multi",
+        "name": "Amma Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8326981,
+          12.7393554
+        ]
+      },
+      "id": "node/7184228803"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257289028",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Mookondapalli",
+        "addr:postcode": "635126",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "ESI Krishnagiri",
+        "operator": "Employees' State Insurance",
+        "operator:short": "ESI",
+        "operator:wikidata": "Q3595726",
+        "operator:wikipedia": "hi:कर्मचारी राज्‍य बीमा निगम",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7990046,
+          12.7570375
+        ]
+      },
+      "id": "node/7257289028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257289081",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No. 1/ 24-A, Bangalore Main Road, National Highway 44, Mookandapalli",
+        "addr:postcode": "635126",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Janani Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8031203,
+          12.7520976
+        ]
+      },
+      "id": "node/7257289081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257289088",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Door No.302, Near National Petrol Bunk, Sipcot, Hosur",
+        "addr:postcode": "635126",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "BMS Multi-speciality Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8063928,
+          12.7483681
+        ]
+      },
+      "id": "node/7257289088"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257289109",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Near -St Joseph Primary School,Dharga Phase -I, Hosur, Urban, Near -St Joseph Primary School,Dharga Phase -I",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Krishna Medical Centre",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.825359,
+          12.74089
+        ]
+      },
+      "id": "node/7257289109"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257289131",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Government Hospital,Hosur, Hosur, Denkanikottai Road",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "name": "Government Hospital, Hosur",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.805507,
+          12.79191
+        ]
+      },
+      "id": "node/7257289131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257518689",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Tank Street, Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Lakshmi Hospital",
+        "name:kn": "ಲಕ್ಷ್ಮಿ ಆಸ್ಪತ್ರೆ",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8255221,
+          12.7327982
+        ]
+      },
+      "id": "node/7257518689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257518720",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No.13/ 80., Tank Street, Urban, Tank Street, Hosur. 635109.",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "S.B.S Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8259338,
+          12.7338924
+        ]
+      },
+      "id": "node/7257518720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257518725",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Thally Road, Hosur, Urban",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "hospital",
+        "healthcare": "hospital",
+        "name": "Sri Venkat Sai Private Hospital",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8185057,
+          12.7327925
+        ]
+      },
+      "id": "node/7257518725"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12270691057",
+        "amenity": "hospital",
+        "check_date": "2024-10-20",
+        "healthcare": "hospital",
+        "name": "Lions Eye Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8576503,
+          12.7264366
+        ]
+      },
+      "id": "node/12270691057"
+    }
+  ]
+}

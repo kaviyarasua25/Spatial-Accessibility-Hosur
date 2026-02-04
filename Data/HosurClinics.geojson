@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-26T22:36:18Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6914894012",
+        "addr:district": "Krishnagiri",
+        "addr:full": "M G Road M G Road Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Meera Nursing Home, Krishnagiri",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8292795,
+          12.7326185
+        ]
+      },
+      "id": "node/6914894012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6926417861",
+        "addr:district": "Krishnagiri",
+        "addr:full": "Plot No- 8, 9 Opposite Traffic Police Station, New Banglore, Bye Pass Road, Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Narayana Hrudayalaya Superspecialty Clinic",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8242952,
+          12.7264081
+        ]
+      },
+      "id": "node/6926417861"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934864238",
+        "addr:district": "Krishnagiri",
+        "addr:full": "91, Hig Atc Hudco, Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Thangam Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8181389,
+          12.7359712
+        ]
+      },
+      "id": "node/6934864238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257289023",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No. 2/ 184-5, Near Higher Secondary School., Rural, Jeeva Nagar,Berigai Main Road",
+        "addr:postcode": "635124",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "clinic",
+        "name": "Thirumala Private Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8672146,
+          12.835671
+        ]
+      },
+      "id": "node/7257289023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257518695",
+        "addr:district": "Krishnagiri",
+        "addr:full": "16 A, Tank Street, Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Andal Private Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8253198,
+          12.7322005
+        ]
+      },
+      "id": "node/7257518695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7257518767",
+        "addr:block": "Hosur Mpty",
+        "addr:district": "Krishnagiri",
+        "addr:full": "No.91., Hosur, Urban, Hig-Astc Hutco,Hosur",
+        "addr:postcode": "635109",
+        "addr:state": "Tamil Nadu",
+        "addr:subdistrict": "Hosur",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Thangam Private Nursing Home",
+        "source": "OpenGovernmentData"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8185638,
+          12.737023
+        ]
+      },
+      "id": "node/7257518767"
+    }
+  ]
+}

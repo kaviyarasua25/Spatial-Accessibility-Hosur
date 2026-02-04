@@ -1,0 +1,1156 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2025-12-26T22:31:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/534821003",
+        "addr:postcode": "635109",
+        "addr:street": "Thali Road",
+        "amenity": "school",
+        "email": "sishya_hs@yahoo.com",
+        "name": "Sishya school",
+        "opening_hours": "Mo-Sa 09:00-17:00",
+        "operator": "Vasanthi Thiagarajan",
+        "phone": "+91 4344 266 668",
+        "school:gender": "mixed",
+        "website": "https://sishyaschool.edu.in/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8138205,
+              12.726236
+            ],
+            [
+              77.8151,
+              12.7260006
+            ],
+            [
+              77.8151911,
+              12.7263669
+            ],
+            [
+              77.814129,
+              12.726618
+            ],
+            [
+              77.8138205,
+              12.726236
+            ]
+          ]
+        ]
+      },
+      "id": "way/534821003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1300236208",
+        "addr:street": "Maruthi Greenfields Main road",
+        "amenity": "school",
+        "name": "MS Dhoni Global School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.854418,
+              12.7121336
+            ],
+            [
+              77.8544646,
+              12.7110862
+            ],
+            [
+              77.8545225,
+              12.7107784
+            ],
+            [
+              77.8554662,
+              12.7107558
+            ],
+            [
+              77.855472,
+              12.711154
+            ],
+            [
+              77.8555559,
+              12.7114392
+            ],
+            [
+              77.8557035,
+              12.7115013
+            ],
+            [
+              77.8554546,
+              12.7118882
+            ],
+            [
+              77.8551593,
+              12.7117526
+            ],
+            [
+              77.854418,
+              12.7121336
+            ]
+          ]
+        ]
+      },
+      "id": "way/1300236208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1338543711",
+        "addr:postcode": "635109",
+        "addr:street": "Kalahasthipuram - Chennasamdiram Road",
+        "amenity": "school",
+        "name:en": "Green Valley Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8630632,
+              12.7813611
+            ],
+            [
+              77.8636694,
+              12.7830692
+            ],
+            [
+              77.8631169,
+              12.7831293
+            ],
+            [
+              77.8625455,
+              12.7833595
+            ],
+            [
+              77.8618669,
+              12.7837963
+            ],
+            [
+              77.8615424,
+              12.7830168
+            ],
+            [
+              77.8618428,
+              12.782873
+            ],
+            [
+              77.8616416,
+              12.7821458
+            ],
+            [
+              77.8618535,
+              12.7819679
+            ],
+            [
+              77.8630632,
+              12.7813611
+            ]
+          ]
+        ]
+      },
+      "id": "way/1338543711"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377243658",
+        "amenity": "school",
+        "name": "New Brilliant Ideal Matriculation School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8840984,
+              12.8398153
+            ],
+            [
+              77.8841608,
+              12.8399662
+            ],
+            [
+              77.8846711,
+              12.8397793
+            ],
+            [
+              77.884939,
+              12.8403962
+            ],
+            [
+              77.8850891,
+              12.8403872
+            ],
+            [
+              77.8851838,
+              12.8403377
+            ],
+            [
+              77.8855163,
+              12.8408398
+            ],
+            [
+              77.8849297,
+              12.841137
+            ],
+            [
+              77.8846757,
+              12.8406777
+            ],
+            [
+              77.8845741,
+              12.8405021
+            ],
+            [
+              77.8840776,
+              12.8406822
+            ],
+            [
+              77.883803,
+              12.8398938
+            ],
+            [
+              77.8840984,
+              12.8398153
+            ]
+          ]
+        ]
+      },
+      "id": "way/1377243658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377246262",
+        "amenity": "school",
+        "name": "Vivekanandha School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8782946,
+              12.8408408
+            ],
+            [
+              77.8791254,
+              12.8406465
+            ],
+            [
+              77.8791594,
+              12.8406314
+            ],
+            [
+              77.8794543,
+              12.8416951
+            ],
+            [
+              77.8786317,
+              12.8419699
+            ],
+            [
+              77.8782946,
+              12.8408408
+            ]
+          ]
+        ]
+      },
+      "id": "way/1377246262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377249249",
+        "amenity": "school",
+        "name": "Vijay Vidhyashram School",
+        "name:ta": "விஜய் வித்யாஷ்ரம் பள்ளி"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8595987,
+              12.8213868
+            ],
+            [
+              77.8598232,
+              12.8212993
+            ],
+            [
+              77.8609726,
+              12.8208732
+            ],
+            [
+              77.8615862,
+              12.8207068
+            ],
+            [
+              77.8617389,
+              12.8212322
+            ],
+            [
+              77.8623944,
+              12.8210424
+            ],
+            [
+              77.8625261,
+              12.8210045
+            ],
+            [
+              77.8625351,
+              12.8210308
+            ],
+            [
+              77.8625155,
+              12.8210703
+            ],
+            [
+              77.8623703,
+              12.8211486
+            ],
+            [
+              77.8623759,
+              12.8211789
+            ],
+            [
+              77.8624118,
+              12.8213466
+            ],
+            [
+              77.8624699,
+              12.8213745
+            ],
+            [
+              77.8625188,
+              12.8214355
+            ],
+            [
+              77.8626074,
+              12.8214404
+            ],
+            [
+              77.8626276,
+              12.8214951
+            ],
+            [
+              77.8625142,
+              12.8215211
+            ],
+            [
+              77.8617628,
+              12.8216816
+            ],
+            [
+              77.8612719,
+              12.8217575
+            ],
+            [
+              77.8612001,
+              12.8213664
+            ],
+            [
+              77.8606344,
+              12.8215211
+            ],
+            [
+              77.8603739,
+              12.82174
+            ],
+            [
+              77.8595987,
+              12.8213868
+            ]
+          ]
+        ]
+      },
+      "id": "way/1377249249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1377710160",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8562606,
+              12.7951056
+            ],
+            [
+              77.8560429,
+              12.794516
+            ],
+            [
+              77.8576785,
+              12.7943318
+            ],
+            [
+              77.857763,
+              12.7950091
+            ],
+            [
+              77.8562606,
+              12.7951056
+            ]
+          ]
+        ]
+      },
+      "id": "way/1377710160"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1379167964",
+        "amenity": "school",
+        "name": "BMR Global School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8966785,
+              12.8321904
+            ],
+            [
+              77.8966836,
+              12.8326149
+            ],
+            [
+              77.8965961,
+              12.8326236
+            ],
+            [
+              77.8965991,
+              12.833084
+            ],
+            [
+              77.897284,
+              12.8327913
+            ],
+            [
+              77.8975931,
+              12.8333215
+            ],
+            [
+              77.8971607,
+              12.8335017
+            ],
+            [
+              77.8967104,
+              12.8336975
+            ],
+            [
+              77.8964901,
+              12.8332565
+            ],
+            [
+              77.8964542,
+              12.8332731
+            ],
+            [
+              77.8963804,
+              12.8325447
+            ],
+            [
+              77.8959171,
+              12.8326517
+            ],
+            [
+              77.8959492,
+              12.8320548
+            ],
+            [
+              77.8964188,
+              12.8319769
+            ],
+            [
+              77.8964294,
+              12.8321904
+            ],
+            [
+              77.8966171,
+              12.8321904
+            ],
+            [
+              77.8966785,
+              12.8321904
+            ]
+          ]
+        ]
+      },
+      "id": "way/1379167964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1379167969",
+        "amenity": "school",
+        "name": "Aadhithya Matric Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8884963,
+              12.8269424
+            ],
+            [
+              77.8888366,
+              12.8267444
+            ],
+            [
+              77.888877,
+              12.8268148
+            ],
+            [
+              77.8890918,
+              12.8271886
+            ],
+            [
+              77.8891518,
+              12.8272931
+            ],
+            [
+              77.8902154,
+              12.8268331
+            ],
+            [
+              77.8907936,
+              12.8266275
+            ],
+            [
+              77.8909309,
+              12.8269839
+            ],
+            [
+              77.8890184,
+              12.8277475
+            ],
+            [
+              77.8884963,
+              12.8269424
+            ]
+          ]
+        ]
+      },
+      "id": "way/1379167969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1388541729",
+        "amenity": "school",
+        "name": "Advaith Matriculation School"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8410926,
+              12.7894521
+            ],
+            [
+              77.8409121,
+              12.7890968
+            ],
+            [
+              77.8407079,
+              12.7887482
+            ],
+            [
+              77.8404968,
+              12.7882071
+            ],
+            [
+              77.8413275,
+              12.7876427
+            ],
+            [
+              77.8415726,
+              12.7875397
+            ],
+            [
+              77.8422194,
+              12.7890636
+            ],
+            [
+              77.8415181,
+              12.7891898
+            ],
+            [
+              77.8414568,
+              12.7892296
+            ],
+            [
+              77.8412866,
+              12.789296
+            ],
+            [
+              77.8410926,
+              12.7894521
+            ]
+          ]
+        ]
+      },
+      "id": "way/1388541729"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1391116023",
+        "amenity": "school",
+        "check_date": "2025-05-31",
+        "email": "info@nimaipublicschool.in",
+        "name": "Nimai Public School",
+        "source": "survey",
+        "website": "https://www.nimaipublicschool.in/"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8660719,
+              12.6762271
+            ],
+            [
+              77.8653048,
+              12.6747596
+            ],
+            [
+              77.865638,
+              12.6746021
+            ],
+            [
+              77.8658058,
+              12.674539
+            ],
+            [
+              77.8658673,
+              12.6747131
+            ],
+            [
+              77.8660652,
+              12.6749338
+            ],
+            [
+              77.8662005,
+              12.6751805
+            ],
+            [
+              77.8665506,
+              12.675887
+            ],
+            [
+              77.8660719,
+              12.6762271
+            ]
+          ]
+        ]
+      },
+      "id": "way/1391116023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422346317",
+        "amenity": "school"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8582996,
+              12.7178794
+            ],
+            [
+              77.8587341,
+              12.7186015
+            ],
+            [
+              77.8586483,
+              12.7188004
+            ],
+            [
+              77.8584444,
+              12.7187428
+            ],
+            [
+              77.8581977,
+              12.7185544
+            ],
+            [
+              77.8581387,
+              12.7182614
+            ],
+            [
+              77.8570873,
+              12.7184288
+            ],
+            [
+              77.8569585,
+              12.7181463
+            ],
+            [
+              77.8582996,
+              12.7178794
+            ]
+          ]
+        ]
+      },
+      "id": "way/1422346317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1422346339",
+        "amenity": "school",
+        "check_date": "2025-05-31",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.8569949,
+              12.6838621
+            ],
+            [
+              77.8574842,
+              12.6836993
+            ],
+            [
+              77.8575715,
+              12.6839879
+            ],
+            [
+              77.8587019,
+              12.6837696
+            ],
+            [
+              77.8588157,
+              12.68458
+            ],
+            [
+              77.8586715,
+              12.6846096
+            ],
+            [
+              77.8587436,
+              12.6850352
+            ],
+            [
+              77.8581822,
+              12.685161
+            ],
+            [
+              77.8580494,
+              12.6845763
+            ],
+            [
+              77.8574463,
+              12.6848058
+            ],
+            [
+              77.857048,
+              12.6848946
+            ],
+            [
+              77.8570328,
+              12.6842655
+            ],
+            [
+              77.8570518,
+              12.6840249
+            ],
+            [
+              77.8569949,
+              12.6838621
+            ]
+          ]
+        ]
+      },
+      "id": "way/1422346339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2303841744",
+        "amenity": "school",
+        "name": "Bharathi Vidhyalaya Matriculation School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8462293,
+          12.7400036
+        ]
+      },
+      "id": "node/2303841744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344385045",
+        "amenity": "school",
+        "name": "Parimalam School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8262359,
+          12.7279997
+        ]
+      },
+      "id": "node/2344385045"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344388827",
+        "amenity": "school",
+        "name": "Vailankanni School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8190755,
+          12.7336014
+        ]
+      },
+      "id": "node/2344388827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344389314",
+        "amenity": "school",
+        "name": "Seventh-day Adventists School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8167581,
+          12.7310055
+        ]
+      },
+      "id": "node/2344389314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344395621",
+        "amenity": "school",
+        "name": "Vijay Vidyalaya School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8308427,
+          12.7397242
+        ]
+      },
+      "id": "node/2344395621"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344405295",
+        "amenity": "school",
+        "name": "Panchayat Union School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8296722,
+          12.7288629
+        ]
+      },
+      "id": "node/2344405295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344410830",
+        "amenity": "school",
+        "check_date": "2025-01-27",
+        "name": "Government Boys School",
+        "operator:type": "government",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8322161,
+          12.730183
+        ]
+      },
+      "id": "node/2344410830"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344411808",
+        "amenity": "school",
+        "name": "Government Girls School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8311915,
+          12.7301934
+        ]
+      },
+      "id": "node/2344411808"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344414017",
+        "amenity": "school",
+        "name": "Don Bosco School",
+        "name:kn": "ಡಾನ್ ಬಾಸ್ಕೊ ಶಾಲೆ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.824266,
+          12.7275876
+        ]
+      },
+      "id": "node/2344414017"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344441447",
+        "amenity": "school",
+        "check_date": "2024-10-20",
+        "name": "St. Joseph's Matriculation Higher Secondary School",
+        "religion": "christian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8072784,
+          12.7463204
+        ]
+      },
+      "id": "node/2344441447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344441669",
+        "amenity": "school",
+        "name": "St. Joseph's Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8131685,
+          12.7451275
+        ]
+      },
+      "id": "node/2344441669"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2344448404",
+        "amenity": "school",
+        "name": "Maharishi Vidhya Mandir Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8324166,
+          12.7397254
+        ]
+      },
+      "id": "node/2344448404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6892884140",
+        "amenity": "school",
+        "name": "Fathima Primary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8073818,
+          12.6949038
+        ]
+      },
+      "id": "node/6892884140"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10564863563",
+        "amenity": "school",
+        "check_date": "2023-01-18",
+        "email": "bsrpmschool@gmail.com",
+        "name": "Sree Ramakrishna Paramahamsa Matriculation Higher Secondary School",
+        "phone": "+91 94439 24105",
+        "website": "https://www.ramakrishnaschoolhosur.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8216327,
+          12.7168755
+        ]
+      },
+      "id": "node/10564863563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12078450125",
+        "amenity": "school",
+        "check_date": "2024-07-28",
+        "name": "Panchayat Union Primary School",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8604798,
+          12.6835154
+        ]
+      },
+      "id": "node/12078450125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12270691062",
+        "amenity": "school",
+        "check_date": "2024-10-20",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8889126,
+          12.7118579
+        ]
+      },
+      "id": "node/12270691062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12347796201",
+        "addr:postcode": "635103",
+        "addr:street": "Dabaspete - Hosur Highway",
+        "amenity": "school",
+        "name": "யோகி வேமனா உயர்நிலை பள்ளி",
+        "name:en": "Yogi Vemana Matric Higher Secondary School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.856243,
+          12.7949558
+        ]
+      },
+      "id": "node/12347796201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13059749471",
+        "amenity": "school",
+        "check_date": "2025-08-09",
+        "name": "Government Higher Secondary School",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8350097,
+          12.7172281
+        ]
+      },
+      "id": "node/13059749471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13059749477",
+        "amenity": "school",
+        "check_date": "2025-08-07",
+        "name": "Velammal Vidyalaya"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8391833,
+          12.7159146
+        ]
+      },
+      "id": "node/13059749477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13097016987",
+        "amenity": "school",
+        "check_date": "2025-08-26",
+        "operator:type": "government"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.7901024,
+          12.7667249
+        ]
+      },
+      "id": "node/13097016987"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13097018822",
+        "amenity": "school",
+        "check_date": "2025-08-26",
+        "name": "Hosur Public School"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.8488385,
+          12.7005473
+        ]
+      },
+      "id": "node/13097018822"
+    }
+  ]
+}
